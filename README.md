@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LuizaR0drigues
 - 👀 I’m interested in Computing and Robotics
-- 🌱 I’m currently learning Structures/Algorithms in C and python
+- 🌱 I’m currently learning Data Structures/Algorithms in C/C++ and Python and Design Web.
 - 📫 How to reach me @luiza.rar or Luiza Rodrigues on linkedin
 - 😄 Pronouns: She/Her
 
