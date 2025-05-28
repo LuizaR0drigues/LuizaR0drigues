@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LuizaR0drigues
-- 👀 I’m interested in CV and ML
+- 👀 I’m interested in Images Processing,Bias Mitigations in LLMs,  CV and ML
 - 🌱 I’m currently learning Data Structures/Algorithms in C/C++ and Python and Design Web.
 - 📫 How to reach me @luiza.rar or Luiza Rodrigues on linkedin
 - 😄 Pronouns: She/Her
