@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @LuizaR0drigues
-- 👀 I’m interested in Images Processing,Bias Mitigations in LLMs,  CV and ML
+- 👋 Hi, I’m @LuizaR0drigues.
+- 👀 I’m interested in Images,Bias Mitigations in LLMs,  Computer vision and Machine Learning.
 - 🌱 I’m currently learning Data Structures/Algorithms in C/C++ and Python and Design Web.
-- 📫 How to reach me @luiza.rar or Luiza Rodrigues on linkedin
+- 📫 How to reach me @luiza.rar on Telegram or Luiza Rodrigues on linkedin
 - 😄 Pronouns: She/Her
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizaR0drigues&show_icons=true&theme=radical)
