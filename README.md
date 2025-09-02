@@ -4,7 +4,7 @@
 - 📫 How to reach me @luiza.rar on Telegram or Luiza Rodrigues on linkedin
 - 😄 Pronouns: She/Her
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizaR0drigues&show_icons=true&theme=jolly&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuizaR0drigues&show_icons=true&theme=jolly&include_all_commits=true&count_private=true&rank_icon=github)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizaR0drigues&layout=compact&theme=jolly&count_private=true&v=1)
 <!---
 LuizaR0drigues/LuizaR0drigues is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
