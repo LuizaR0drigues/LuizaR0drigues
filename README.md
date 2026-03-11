@@ -4,7 +4,7 @@
 - 📫 How to reach me: @luiza.rar on Telegram or Luiza Rodrigues on LinkedIn.
 - 😄 Pronouns: She/Her
 
-<p align="center"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHFncjI2M3hqNHhzejVlcXVqcTN4eTNpaHUyMWN2aWxhdTJjN2x1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CzDBwKa5DBDppHCb6m/giphy.gif" width="100%" alt="animated gif"/></p>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHFncjI2M3hqNHhzejVlcXVqcTN4eTNpaHUyMWN2aWxhdTJjN2x1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CzDBwKa5DBDppHCb6m/giphy.gif" width="100%" alt="gif" />
 
 <!---
 LuizaR0drigues/LuizaR0drigues is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
