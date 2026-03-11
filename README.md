@@ -4,6 +4,8 @@
 - 📫 How to reach me: @luiza.rar on Telegram or Luiza Rodrigues on LinkedIn.
 - 😄 Pronouns: She/Her
 
+
+
 <p align="center">
-  <img src="https://i.giphy.com/media/CzDBwKa5DBDppHCb6m/giphy.gif" alt="gif" width="100%">
+  <img src="https://github.com/user-attachments/assets/be9b8875-2632-4820-a5bf-983dfb8027a6" width="100%">
 </p>
